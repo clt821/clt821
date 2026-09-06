@@ -2,7 +2,7 @@
 
 Client partnerships at a design and technology agency.
 
-Here you'll find things I've built to solve problems, test ideas, and explore what's possible, from evaluation frameworks and daily automations to interactive tools and strategic experiments.
+Here you'll find things I've built to solve problems, test ideas, and explore what's possible, from evaluation frameworks and daily automations to interactive tools and strategic experiments. More repos are on the way.
 
 Over on Substack, I write [Worth Unpacking](https://worthunpacking.substack.com), exploring the ideas, behaviors, and strategies behind what's shaping culture.
 

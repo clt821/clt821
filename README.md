@@ -10,6 +10,6 @@ The [Brand Centrality Map](https://worthunpacking.com/map) is an interactive too
 
 ---
 
-### Currently
+### ⬇️ Sharing
 
-Sharing [Headlines](https://github.com/clt821/headlines-daily-paper), a Claude skill that writes you a daily paper covering only the topics you pick.
+[Headlines](https://github.com/clt821/headlines-daily-paper), a Claude skill that writes you a daily paper covering only the topics you pick.
